@@ -21,6 +21,21 @@ The Project consists of the use of various libraries pandas, matplotlib, plotly 
 4. Dash
 5. Python
 
+**Libraries Used**
+1. Dash
+2. Plotly
+3. Matplotlib
+4. Pandas
+5. Numpy
+
+**Process**
+We had preprocessed the data and found out the null values and filled the null values with its preceding date's value.
 
 **Setup**
-1. 
+1. All your excel files, requirements.txt and all .py files must be in the present source current working directory.
+2. Install all the requirements file by 
+```
+pip install -r requirements.txt
+```
+3. 
+
