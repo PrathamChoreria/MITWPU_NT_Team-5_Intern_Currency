@@ -5,7 +5,7 @@
 
 The Project consists of the use of various libraries pandas, matplotlib, plotly and dash.
 
-**Key Features**
+#**Key Features**
 1. In this project we generate various graph for Currency Conversion, there are over 40-50 currencies that were compared with USD($) currency.
 2. In this project users have the option to select weekly, monthly, quarterly, and yearly charts showing how the particular currency changes with respect to USD.
 3. The user can also select the year from the dropdown menu and plot the data.
