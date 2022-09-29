@@ -16,11 +16,10 @@ The Project consists of the use of various libraries pandas, matplotlib, plotly 
 
 
 **Technologies**
-1. Matplotlib
-2. Plotly
-3. Pandas
-4. Dash
-5. Python
+1. Plotly
+2. Pandas
+3. Dash
+4. Python
 
 **Libraries Used**
 1. Dash
@@ -38,7 +37,8 @@ The Project consists of the use of various libraries pandas, matplotlib, plotly 
 ```
 pip install -r requirements.txt
 ```
-3. Then Run northern trust dash.py file
+3. Then Run "northern trust dash.py" or ".ipynb" file`
 4. Open the URL generated on the bottom on screen
-5. The Interactive Dashboard will be visible on the new tab
+5. Then click on the url: http://127.0.0.1:8051/
+6. The Interactive Dashboard will be visible on the new tab
 
