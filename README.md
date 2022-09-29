@@ -12,6 +12,7 @@ The Project consists of the use of various libraries pandas, matplotlib, plotly 
 4. Displayed the date on which the rate was highest with the actual rate and date on which the rate was lowest along with the rate.
 5. Displayed a UI screen to display all currencies along with the short code and description.
 6. Responsive Cursor which shows Date and value of currency.
+7. There is a slider which shows how we are viewing the data overall.
 
 
 **Technologies**
