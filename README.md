@@ -30,6 +30,8 @@ The Project consists of the use of various libraries pandas, matplotlib, plotly 
 
 **Process**
 1. We have preprocessed the data and found out the null values and filled the null values with its preceding date's value.
+2. Data Preprocessing is done by file "Nt pb.py" file
+3. Main code is run by "northern trust dash.py"
 
 **Setup**
 1. All your excel files, requirements.txt and all .py files must be in the present source current working directory.
