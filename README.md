@@ -1,6 +1,6 @@
 # MITWPU_NT_Team-5_Intern_Currency
 
-**APAC Tech Hackathon Northern Trust**
+***APAC Tech Hackathon Northern Trust***
 *Team-5* 
 
 The Project consists of the use of various libraries pandas, matplotlib, plotly and dash.
