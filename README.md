@@ -37,5 +37,7 @@ The Project consists of the use of various libraries pandas, matplotlib, plotly 
 ```
 pip install -r requirements.txt
 ```
-3. 
+3. Then Run northern trust dash.py file
+4. Open the URL generated on the bottom on screen
+5. The Interactive Dashboard will be visible on the new tab
 
